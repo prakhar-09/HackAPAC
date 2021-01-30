@@ -1,0 +1,2312 @@
+[
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "23",
+      "avanti_555",
+      "beginner",
+      "Avanti",
+      "C#",
+      "AMER"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "53",
+      "shami_376",
+      "beginner",
+      "Shami",
+      "C#",
+      "AMER"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "55",
+      "ashton_565",
+      "advance",
+      "Ashton",
+      "Ruby",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "33",
+      "shaz_876",
+      "intermediate",
+      "Shaz",
+      "Python",
+      "EMEA"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "5",
+      "johnson_546",
+      "advance",
+      "Johnson",
+      "CSS3",
+      "EMEA"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "28",
+      "shubham_377",
+      "advance",
+      "Shubham",
+      "JavaScript",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "42",
+      "nabi_934",
+      "intermediate",
+      "Nabi",
+      "Angular",
+      "EMEA"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "50",
+      "bharat_654",
+      "beginner",
+      "Bharat",
+      "HTML",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "49",
+      "piyush_856",
+      "advance",
+      "Piyush",
+      "mongoDB",
+      "AMER"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "10",
+      "yusuf_721",
+      "beginner",
+      "Yusuf",
+      "React",
+      "EMEA"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "16",
+      "david_332",
+      "advance",
+      "David",
+      "C",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "13",
+      "miranda_545",
+      "intermediate",
+      "Miranda",
+      "Java",
+      "AMER"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "30",
+      "ankit_879",
+      "intermediate",
+      "Ankit",
+      "Python",
+      "EMEA"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "11",
+      "donald_143",
+      "intermediate",
+      "Donald",
+      "Angular",
+      "EMEA"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "1",
+      "prakhar_543",
+      "advance",
+      "Prakhar",
+      "java",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "19",
+      "chhavi_563",
+      "advance",
+      "Chhavi",
+      "mongoDB",
+      "AMER"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "46",
+      "jamie_221",
+      "beginner",
+      "Jamie",
+      "Flutter",
+      "AMER"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "43",
+      "sanju_388",
+      "advance",
+      "Sanju",
+      "JavaScript",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "8",
+      "asif_541",
+      "advance",
+      "Asif",
+      "C++",
+      "AMER"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "52",
+      "rishab_274",
+      "intermediate",
+      "Rishab",
+      "Node.js",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "2",
+      "robert_673",
+      "intermediate",
+      "Robert",
+      "Python",
+      "EMEA"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "45",
+      "amit_034",
+      "intermediate",
+      "Amit",
+      "Python",
+      "EMEA"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "4",
+      "duke_543",
+      "beginner",
+      "Duke",
+      "HTML",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "18",
+      "monty_098",
+      "intermediate",
+      "Monty",
+      "Python",
+      "EMEA"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "51",
+      "john_533",
+      "advance",
+      "John",
+      "CSS3",
+      "EMEA"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "47",
+      "sundar_934",
+      "advance",
+      "Sundar",
+      "C",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "44",
+      "morris_287",
+      "intermediate",
+      "Morris",
+      "Java",
+      "AMER"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "15",
+      "rashi_209",
+      "beginner",
+      "Rashi",
+      "Flutter",
+      "AMER"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "22",
+      "sahas_298",
+      "intermediate",
+      "Sahas",
+      "Node.js",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "54",
+      "abdul_463",
+      "advance",
+      "Abdul",
+      "C++",
+      "AMER"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "27",
+      "james_334",
+      "intermediate",
+      "James",
+      "Angular",
+      "EMEA"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "20",
+      "darren_132",
+      "beginner",
+      "Darren",
+      "HTML",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "7",
+      "khaleel_652",
+      "beginner",
+      "Khaleel",
+      "C#",
+      "AMER"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "36",
+      "aaron_309",
+      "advance",
+      "Aaron",
+      "CSS3",
+      "EMEA"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "40",
+      "dale_562",
+      "advance",
+      "Dale",
+      "Ruby",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "38",
+      "harman_986",
+      "beginner",
+      "Harman",
+      "C#",
+      "AMER"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "39",
+      "shrishti_187",
+      "advance",
+      "Shrishti",
+      "C++",
+      "AMER"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "6",
+      "shivansh_287",
+      "intermediate",
+      "Shivansh",
+      "Node.js",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "29",
+      "michelle_772",
+      "intermediate",
+      "Michelle",
+      "Java",
+      "AMER"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "37",
+      "deepak_342",
+      "intermediate",
+      "Deepak",
+      "Node.js",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "9",
+      "rahul_987",
+      "advance",
+      "Rahul",
+      "Ruby",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "14",
+      "marie_223",
+      "intermediate",
+      "Marie",
+      "Python",
+      "EMEA"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "26",
+      "jasper_092",
+      "beginner",
+      "Jasper",
+      "React",
+      "EMEA"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "21",
+      "trump_656",
+      "advance",
+      "Trump",
+      "CSS3",
+      "EMEA"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "17",
+      "anjali_845",
+      "advance",
+      "Anjali",
+      "Java",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "35",
+      "tom_435",
+      "beginner",
+      "Tom",
+      "HTML",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "31",
+      "sally_645",
+      "beginner",
+      "Sally",
+      "Flutter",
+      "AMER"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "48",
+      "johnny_768",
+      "intermediate",
+      "Johnny",
+      "Python",
+      "EMEA"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "24",
+      "lipika_523",
+      "advance",
+      "Lipika",
+      "C++",
+      "AMER"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "32",
+      "atul_309",
+      "advance",
+      "Atul",
+      "C",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "41",
+      "rashid_299",
+      "beginner",
+      "Rashid",
+      "React",
+      "EMEA"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "25",
+      "cody_234",
+      "advance",
+      "Cody",
+      "Ruby",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "34",
+      "preeti_352",
+      "advance",
+      "Preeti",
+      "mongoDB",
+      "AMER"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "12",
+      "khushi_318",
+      "advance",
+      "Khushi",
+      "JavaScript",
+      "APAC"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "name": [
+      "m_id",
+      "discord_mid",
+      "m_lvl",
+      "m_name",
+      "m_techstak",
+      "m_zone"
+    ],
+    "type": [
+      "int",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar",
+      "varchar"
+    ],
+    "value": [
+      "3",
+      "pranjali_890",
+      "advance",
+      "Pranjali",
+      "mongoDB",
+      "AMER"
+    ],
+    "ttl": [
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648",
+      "-2147483648"
+    ],
+    "writetime": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  }
+]
